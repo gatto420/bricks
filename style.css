@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+    padding: 0px;
+}
+body{
+	
+	background-image:url("sky.jpg");
+}
+canvas {
+     border : 1px solid;
+     margin : 0 auto;
+     width : 800px;
+     display : block;
+     margin-top : 50px;
+     background-color : #E8F5E9;
+	 background:transparent;
+	 
+  }
+  
